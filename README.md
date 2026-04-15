@@ -4,3 +4,4 @@ Paola Martinez
 Maritza Ruiz 
 Onur Karaer
 Longley Pham
+Jessica NavarroServin
