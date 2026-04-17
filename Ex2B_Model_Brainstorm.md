@@ -46,5 +46,12 @@ Some of us added notes under Walks and Dogs
 
 Tip: Add walker in front of phone, email, etc to Walker table 
 
+Module 3A
+8a)
+8b)
 
+Module 4A
+6a)
+6b)
+6c)
 
