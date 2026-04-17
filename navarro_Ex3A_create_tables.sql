@@ -36,13 +36,3 @@ CREATE TABLE Walks (
     FOREIGN KEY (dog_id) REFERENCES Dogs(dog_id),
     FOREIGN KEY (walker_id) REFERENCES Walkers(walker_id)
 );
-
-CREATE TABLE Transactions (
-    transaction_id INT PRIMARY KEY,
-    customer_id INT,
-    walk_id INT,
-    amount INT,
-    payment_method VARCHAR(50),
-    FOREIGN KEY (customer_id) REFERENCES Customer(customer_id),
-    FOREIGN KEY (walk_id) REFERENCES Walks(walk_id)
-);
